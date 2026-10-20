@@ -1,4 +1,4 @@
-![Whale Analyzer](banner.jpg)
+![Whale Analyzer](IMG-20261020-WA5159.jpg)
 
 # 🐋 Whale Analyzer - DNS Tracker
 > Self-Taught Red Team Project | Python + Scapy
